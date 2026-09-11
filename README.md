@@ -1,9 +1,9 @@
-# gloomberb-public
+# gloom-public
 
 Read-only account and position sync for [Public](https://public.com) in [Gloomberb](https://github.com/gloom-sh/gloomberb).
 
 ```bash
-gloomberb install gloom-sh/gloomberb-public
+gloomberb install gloom-sh/gloom-public
 ```
 
 ## Setup

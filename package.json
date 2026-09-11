@@ -1,5 +1,5 @@
 {
-  "name": "gloomberb-public",
+  "name": "gloom-public",
   "version": "1.0.0",
   "description": "Read-only account and position sync for Public",
   "type": "module",
@@ -7,7 +7,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gloom-sh/gloomberb-public"
+    "url": "https://github.com/gloom-sh/gloom-public"
   },
   "scripts": {
     "typecheck": "tsc --noEmit",
