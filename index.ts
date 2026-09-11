@@ -124,7 +124,7 @@ export const publicPlugin: GloomPlugin = {
   name: "Public",
   version: "1.0.0",
   description: "Read-only account and position sync for Public.",
-  homepage: "https://github.com/gloom-sh/gloomberb-public",
+  homepage: "https://github.com/gloom-sh/gloom-public",
   toggleable: true,
   broker: publicBroker,
 };
