@@ -1,0 +1,22 @@
+{
+  "id": "public",
+  "name": "Public",
+  "icon": "icon.svg",
+  "tagline": "Read-only account and position sync for Public",
+  "description": "Sync every account on a Public API secret, with holdings, cost basis, and market values. The secret is exchanged for a short-lived access token and every call after that is a read against a reporting endpoint. No order placement.",
+  "categories": [
+    "broker"
+  ],
+  "targets": [
+    "cli",
+    "tui",
+    "desktop"
+  ],
+  "hosts": [
+    "api.public.com"
+  ],
+  "contributes": {
+    "broker": true
+  },
+  "minGloomberb": "0.12.0"
+}
